@@ -5,4 +5,7 @@ set(CMAKE_CXX_STANDARD 20)
 
 add_executable(uniusers main.cpp
         Person.cpp
-        Person.h)
+        Person.h
+        Student.cpp
+        Student.cpp
+        Student.h)
